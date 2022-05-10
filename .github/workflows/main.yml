@@ -16,9 +16,11 @@ jobs:
 
         with:
 
-          python-version: '3.10'
+          python-version: '3.9'
 
-      - run: python --version
+      - name: check python version
+
+        run: python --version
 
       - name: python script
 
