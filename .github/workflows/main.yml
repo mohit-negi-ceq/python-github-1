@@ -16,7 +16,7 @@ jobs:
 
         with:
 
-          python-version: '3.9.12'
+          python-version: '3.10'
 
       - run: python --version
 
