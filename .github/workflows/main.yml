@@ -24,4 +24,4 @@ jobs:
 
       - name: python script
 
-        run:  python python.py
+        run:  python python1.py 1 2 3
